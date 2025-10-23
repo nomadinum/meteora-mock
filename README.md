@@ -230,3 +230,5 @@ The author (you) are solely responsible for how it is used.
 ## 💬 Credits
 
 Developed privately for managing **personal Solana wallets** during the **Meteora AG** claim cycle.
+
+meteora, meteora-ag, meteora-airdrop, meteora-claimer, meteora-solana, meteora-dex, meteora-token, meteora-automation, meteora-auto-sell, meteora-wallet-manager, solana, solana-airdrop, solana-tools, solana-automation, solana-claimer, solana-token-manager, solana-dex, solana-wallets, solana-auto-claimer, solana-batch, solana-token-collector, solana-airdrop-tool, airdrop-claimer, token-claimer, token-collector, token-swap, crypto-airdrop, crypto-claimer, crypto-tools, airdrop-bot, meteora-bot, meteora-drop, meteora-auto, meteora-solana-airdrop, meteora-claim-script, solana-claim-script, solana-bot, meteora-manager, meteora-wallets, meteora-rewards, meteora-token-sale, meteora-ecosystem, meteora-defi, solana-defi, solana-airdrop-automation, meteora-auto-claimer, solana-token-claimer
