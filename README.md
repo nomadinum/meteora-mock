@@ -1,6 +1,6 @@
 # METEORA AG — Solana Token Claimer & Wallet Manager
 
-![meteora](assets/release.jpg)
+![meteora](assets/image.png)
 
 A private Solana automation tool built for the **Meteora AG** ecosystem.  
 This loader is designed to **claim, consolidate, and optionally sell tokens** from multiple Solana wallets in a single automated flow.  
